@@ -29,18 +29,18 @@ _Datasets Used_
 
 Tips: Restaurant tipping data.
 
-Iris: Iris flower dataset.
+i. Iris: Iris flower dataset.
 
-Titanic: Titanic passenger data.
+ii. Titanic: Titanic passenger data.
 
-Flights: Monthly airline passenger data.
+iii. Flights: Monthly airline passenger data.
 
 _Requirements_
 
 To run these examples, you need the following Python libraries:
 
-seaborn
+1. seaborn
 
-matplotlib
+2. matplotlib
 
-pandas
+3. pandas
